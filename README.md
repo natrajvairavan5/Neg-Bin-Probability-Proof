@@ -1,1 +1,1 @@
-# maximizing-probability-negbin
+# probability-proofs
